@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/air.png</file>
+        <file>res/flo.jpg</file>
+        <file>res/rocket.png</file>
+    </qresource>
+</RCC>
